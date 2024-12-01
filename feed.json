@@ -7,6 +7,14 @@
     "home_page_url": "https://chavez-2025.github.io",
     "items": [
         {
+            "id": "https://chavez-2025.github.io/2024/12/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/",
+            "url": "https://chavez-2025.github.io/2024/12/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/",
+            "title": "我的第一篇笔记",
+            "date_published": "2024-12-01T09:13:52.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
             "id": "https://chavez-2025.github.io/2024/12/01/hello-world/",
             "url": "https://chavez-2025.github.io/2024/12/01/hello-world/",
             "title": "Hello World",
